@@ -1,0 +1,49 @@
+.container {
+    padding-top: 50px;
+    display: flex;
+    column-gap: 20px;
+}
+
+#länk {
+    padding-left: 1170px;
+}
+    
+a {
+    color: #2D1E44;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #967C69;
+    padding: 5px;
+    outline: auto;
+    
+} 
+ 
+body {
+    background-color: #2D1E44;
+}
+
+#text {
+    width: 48%;
+    height: 470px;
+}
+
+#text p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #967C69;
+    width: 100%;
+    height: 100%;
+    font-size: 75px;
+    margin-top: 8px;
+}
+
+#bild{
+    width: 49%;
+    height: 450px;
+    float: right;
+}
+
+#bild img {
+    margin-left: 25px;
+    width: 100%;
+    height: 100%;
+}

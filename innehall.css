@@ -1,0 +1,54 @@
+#tillbaka {
+    color: #2D1E44;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #967C69;
+    padding: 5px;
+    outline: auto;
+}
+.meny {
+    list-style: none;
+    padding: 0;
+    }
+
+.meny li {
+    padding: 10px;
+    margin: 5px 0;
+    text-align: center;
+    font-size: 35px;
+    }
+
+ 
+.meny a {
+    text-decoration: none;
+    color: #967C69;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+.rebaz {
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    }
+
+.socialamedier {
+    display: flex;
+    justify-content: center;
+
+    }
+
+.socialamedier img {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    margin: 0 20px;
+
+    }
+
+
+
+
+
+    

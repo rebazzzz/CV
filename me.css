@@ -1,0 +1,25 @@
+#tillbaka {
+    color: #2D1E44;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #967C69;
+    padding: 5px;
+    outline: auto;
+}
+
+body {
+    background-color: #2D1E44;
+}
+
+p {
+    color:#967C69;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+} 
+
+.bevis {
+    width: 450px;
+    height: 300px;
+    padding-top: 20px;
+}
